@@ -1,0 +1,28 @@
+{
+  "name": "calc-attendance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "10.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoktan/calc-attendance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomoktan/calc-attendance/issues"
+  },
+  "homepage": "https://github.com/tomoktan/calc-attendance#readme"
+}
